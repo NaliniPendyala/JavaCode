@@ -12,7 +12,7 @@
 <body>
 <form action="display.jsp" method=get>
 <h1> Enter user name</h1><input name=name type="text"></h1>
-<h1> Enter email</h1><input name=email type="text"></h1>
+<h1> Enter email ID</h1><input name=email type="text"></h1>
 <input type=submit>
 </form>
 
